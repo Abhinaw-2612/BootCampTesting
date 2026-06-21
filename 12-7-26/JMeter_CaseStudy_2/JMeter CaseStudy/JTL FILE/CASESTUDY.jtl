@@ -1,9 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1781680310414,15922,Training - HTTP Request,200,OK,E commerce Application 1-1,text,true,,33516,122,1,2,https://owasp.org/committees/,15890,0,14872
-1781680310414,16513,Checking - HTTP Request,200,OK,Banking Application 2-1,text,true,,8322,153,1,2,https://testfire.net/index.jsp?content=personal_checking.htm,16513,0,15922
-1781680326340,705,Why For Developers - HTTP Request,200,OK,E commerce Application 1-1,text,true,,39517,117,1,2,https://owasp.org/about/,654,0,0
-1781680326930,284,Retriment HTTP Request,200,OK,Banking Application 2-1,text,true,,7192,155,1,2,https://testfire.net/index.jsp?content=business_retirement.htm,284,0,0
-1781680327045,447,Partners - HTTP Request,200,OK,E commerce Application 1-1,text,true,,38919,121,1,2,https://owasp.org/corporate/,442,0,0
-1781680327215,315,Card - HTTP Request,200,OK,Banking Application 2-1,text,true,,8294,150,1,2,https://testfire.net/index.jsp?content=business_cards.htm,315,0,0
-1781680327494,205,Why For Developers - HTTP Request,200,OK,E commerce Application 1-1,text,true,,39514,117,1,2,https://owasp.org/about/,151,0,0
-1781680327531,327,Investment - HTTP Request,200,OK,Banking Application 2-1,text,true,,8516,156,1,1,https://testfire.net/index.jsp?content=personal_investments.htm,327,0,0

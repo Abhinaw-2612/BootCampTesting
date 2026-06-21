@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-09T10:05:48 IST" name="Default suite" finished-at="2026-06-09T10:06:20 IST" duration-ms="31190">
+    <groups>
+    </groups>
+    <test started-at="2026-06-09T10:05:48 IST" name="Default test" finished-at="2026-06-09T10:06:20 IST" duration-ms="31190">
+      <class name="com.NavigationCommand.NavigationCommand">
+        <test-method signature="QuiteMethod()[pri:0, instance:com.NavigationCommand.NavigationCommand@62379589]" started-at="2026-06-09T10:05:48 IST" name="QuiteMethod" finished-at="2026-06-09T10:06:04 IST" duration-ms="15542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuiteMethod -->
+        <test-method signature="CloseMethod()[pri:1, instance:com.NavigationCommand.NavigationCommand@62379589]" started-at="2026-06-09T10:06:04 IST" name="CloseMethod" finished-at="2026-06-09T10:06:20 IST" duration-ms="15584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseMethod -->
+      </class> <!-- com.NavigationCommand.NavigationCommand -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

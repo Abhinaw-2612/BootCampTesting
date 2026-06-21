@@ -1,0 +1,417 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1781585255292,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-1,text,false,,871,0,1,5,null,0,0,0
+1781585255794,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-2,text,false,,871,0,2,10,null,0,0,0
+1781585256295,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-3,text,false,,871,0,3,15,null,0,0,0
+1781585256795,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-4,text,false,,871,0,4,20,null,0,0,0
+1781585255411,1709,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-1,text,true,,5663,128,4,20,https://www.demoblaze.com/cart.html,1677,0,763
+1781585257294,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-5,text,false,,871,0,5,25,null,0,0,0
+1781585255795,1502,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-2,text,true,,5690,128,5,25,https://www.demoblaze.com/cart.html,1464,0,461
+1781585257794,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-6,text,false,,871,0,6,30,null,0,0,0
+1781585258294,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-7,text,false,,871,0,7,35,null,0,0,0
+1781585258794,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-8,text,false,,871,0,8,40,null,0,0,0
+1781585259300,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-9,text,false,,871,0,9,45,null,0,0,0
+1781585255411,4006,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-1,text,true,,23026,150,9,45,https://www.easycalculation.com/unit-conversion/index.php,3525,0,984
+1781585259796,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-10,text,false,,871,0,10,50,null,0,0,0
+1781585257297,4398,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-2,text,true,,20715,135,10,50,https://www.demoblaze.com/prod.html?idp_=8,1845,0,0
+1781585261695,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-2,text,false,,871,0,10,50,null,0,0,0
+1781585255757,6142,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-2,text,true,,23026,150,10,50,https://www.easycalculation.com/unit-conversion/index.php,2810,0,1268
+1781585256295,5630,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-3,text,true,,5737,128,10,50,https://www.demoblaze.com/cart.html,5483,0,2024
+1781585257124,4839,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-1,text,true,,20674,135,10,50,https://www.demoblaze.com/prod.html?idp_=8,1616,0,0
+1781585261964,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-1,text,false,,871,0,10,50,null,0,0,0
+1781585255411,7707,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-1,text,true,,145117,128,10,50,https://practicetestautomation.com/,2305,0,613
+1781585255411,8916,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-1,text,true,,142827,141,10,50,https://plugins.jenkins.io/performance/releases/,1482,0,764
+1781585255784,9115,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-2,text,true,,142827,141,10,50,https://plugins.jenkins.io/performance/releases/,1390,0,393
+1781585261696,3360,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-2,text,true,,5806,128,10,50,https://www.demoblaze.com/cart.html,3312,0,0
+1781585261965,3640,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-1,text,true,,5898,128,10,50,https://www.demoblaze.com/cart.html,3608,0,0
+1781585256257,10264,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-3,text,true,,23026,150,10,50,https://www.easycalculation.com/unit-conversion/index.php,8711,0,2762
+1781585256796,9736,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-4,text,true,,5784,128,10,50,https://www.demoblaze.com/cart.html,8381,0,4739
+1781585261926,4675,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-3,text,true,,20674,135,10,50,https://www.demoblaze.com/prod.html?idp_=8,3573,0,0
+1781585266602,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-3,text,false,,871,0,10,50,null,0,0,0
+1781585259420,7505,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-1,text,true,,47450,134,10,50,https://www.easycalculation.com/index.php,3555,0,0
+1781585255771,12611,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-2,text,true,,145123,128,10,50,https://practicetestautomation.com/,2250,0,330
+1781585261900,7873,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-2,text,true,,47450,134,10,50,https://www.easycalculation.com/index.php,7557,0,0
+1781585256272,13908,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-3,text,true,,145126,128,10,50,https://practicetestautomation.com/,5739,0,1760
+1781585265606,4955,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-1,text,true,,20674,135,10,50,https://www.demoblaze.com/prod.html?idp_=8,4716,0,0
+1781585264330,6397,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-1,text,true,,49730,132,10,49,https://plugins.jenkins.io/performance/,4246,0,0
+1781585270728,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-1,text,false,,875,0,10,49,null,0,0,0
+1781585264900,6502,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-2,text,true,,49730,132,10,49,https://plugins.jenkins.io/performance/,4275,0,0
+1781585271402,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-2,text,false,,875,0,10,49,null,0,0,0
+1781585257257,16037,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-5,text,true,,23026,150,10,49,https://www.easycalculation.com/unit-conversion/index.php,15898,0,5460
+1781585256772,16715,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-4,text,true,,145115,128,10,49,https://practicetestautomation.com/,6362,0,2703
+1781585266602,7005,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-3,text,true,,5702,128,9,49,https://www.demoblaze.com/cart.html,6364,0,0
+1781585266925,7525,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-1,text,true,,23703,143,10,49,https://www.easycalculation.com/formulas/index.php,7443,0,0
+1781585263121,11473,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-1,text,true,,123733,137,10,49,https://practicetestautomation.com/practice/,3965,0,0
+1781585257295,17955,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-5,text,true,,5973,128,9,49,https://www.demoblaze.com/cart.html,9124,0,5166
+1781585257271,18107,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-5,text,true,,145119,128,10,49,https://practicetestautomation.com/,9063,0,4570
+1781585257795,17815,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-6,text,true,,5931,128,9,49,https://www.demoblaze.com/cart.html,10703,0,6887
+1781585265057,10911,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-2,text,true,,20715,135,9,49,https://www.demoblaze.com/prod.html?idp_=8,3918,0,0
+1781585255741,21072,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,267761,252,10,48,https://www.selenium.dev/downloads/,546,0,340
+1781585255741,546,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-2,text,true,,663,124,10,48,https://selenium.dev/downloads/,546,0,340
+1781585256287,20526,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,267098,128,10,48,https://www.selenium.dev/downloads/,4325,0,1615
+1781585269774,7288,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-2,text,true,,23703,143,10,48,https://www.easycalculation.com/formulas/index.php,7198,0,0
+1781585257735,20625,Downlaods  - HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-6,text,false,,4336,124,10,48,https://www.selenium.dev/downloads/,8831,0,5122
+1781585257735,8831,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-6,text,true,,663,124,10,48,https://selenium.dev/downloads/,8831,0,5122
+1781585266567,11793,Downlaods  - HTTP Request-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-6,text,false,,3673,0,10,48,https://www.selenium.dev/downloads/,0,0,11793
+1781585266522,12645,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-3,text,true,,47450,134,10,48,https://www.easycalculation.com/index.php,5621,0,0
+1781585270730,9149,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-1,text,true,,49730,132,10,48,https://plugins.jenkins.io/performance/,7444,0,0
+1781585271403,9633,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-2,text,true,,49730,132,10,48,https://plugins.jenkins.io/performance/,7571,0,0
+1781585273608,8438,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-3,text,true,,20674,135,8,48,https://www.demoblaze.com/prod.html?idp_=8,7800,0,0
+1781585274451,7831,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-1,text,true,,20331,153,10,47,https://www.easycalculation.com/currency-converter/index.php,7809,0,0
+1781585256283,26832,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-3,text,true,,142827,141,10,47,https://plugins.jenkins.io/performance/releases/,9775,0,2958
+1781585268383,17084,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-2,text,true,,123733,137,10,47,https://practicetestautomation.com/practice/,7700,0,0
+1781585255411,30686,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-1,text,true,,267761,252,10,47,https://www.selenium.dev/downloads/,868,0,629
+1781585255411,871,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-1,text,true,,663,124,10,47,https://selenium.dev/downloads/,868,0,629
+1781585256286,29811,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-1,text,true,,267098,128,10,47,https://www.selenium.dev/downloads/,4260,0,1606
+1781585256759,29618,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-4,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,29498,0,12295
+1781585277061,9775,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-2,text,true,,20331,153,10,47,https://www.easycalculation.com/currency-converter/index.php,9758,0,0
+1781585270180,17230,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-3,text,true,,123751,137,10,47,https://practicetestautomation.com/practice/,7147,0,0
+1781585275378,12179,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-5,text,true,,123741,137,10,47,https://practicetestautomation.com/practice/,8788,0,0
+1781585279166,9519,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-3,text,true,,23703,143,10,47,https://www.easycalculation.com/formulas/index.php,9452,0,0
+1781585276813,12113,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,99364,132,10,47,https://www.selenium.dev/documentation/,10028,0,0
+1781585266532,22561,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-4,text,true,,20719,135,7,47,https://www.demoblaze.com/prod.html?idp_=8,6242,0,0
+1781585289094,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-4,text,false,,871,0,7,47,null,0,0,0
+1781585273295,15860,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-5,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,7242,0,0
+1781585273488,16396,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-4,text,true,,123743,137,10,47,https://practicetestautomation.com/practice/,7596,0,0
+1781585256784,33254,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-4,text,true,,142827,141,10,47,https://plugins.jenkins.io/performance/releases/,14263,0,5857
+1781585282282,8338,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-1,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,8283,0,0
+1781585274595,16416,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-1,text,true,,172198,136,10,47,https://practicetestautomation.com/courses/,7922,0,0
+1781585258295,33979,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-7,text,true,,6029,128,7,47,https://www.demoblaze.com/cart.html,10370,0,6602
+1781585257755,35238,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-6,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,35062,0,18152
+1781585258259,35313,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-7,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,35199,0,17796
+1781585283116,10611,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-3,text,true,,49730,132,10,47,https://plugins.jenkins.io/performance/,8616,0,0
+1781585293728,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-3,text,false,,875,0,10,47,null,0,0,0
+1781585286838,9515,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-2,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,9479,0,0
+1781585258796,38260,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-8,text,true,,5987,128,7,47,https://www.demoblaze.com/cart.html,11899,0,6976
+1781585258757,38335,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-8,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,38055,0,18975
+1781585288687,10838,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-3,text,true,,20331,153,10,47,https://www.easycalculation.com/currency-converter/index.php,10799,0,0
+1781585289156,11884,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-5,text,true,,23703,143,10,47,https://www.easycalculation.com/formulas/index.php,11770,0,0
+1781585288928,13173,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,24200,127,10,47,https://www.selenium.dev/projects/,12627,0,0
+1781585259259,43503,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-9,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,43273,0,22159
+1781585287559,17289,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-5,text,true,,172198,136,10,47,https://practicetestautomation.com/courses/,9487,0,0
+1781585290621,15018,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-1,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,14671,0,0
+1781585259301,48374,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-9,text,true,,5934,128,7,47,https://www.demoblaze.com/cart.html,13611,0,7282
+1781585259758,48688,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-10,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,48575,0,24161
+1781585259797,49649,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-10,text,true,,5839,128,7,47,https://www.demoblaze.com/cart.html,15237,0,8042
+1781585290039,19500,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-4,text,true,,49730,132,10,47,https://plugins.jenkins.io/performance/,15939,0,0
+1781585309539,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-4,text,false,,875,0,10,47,null,0,0,0
+1781585257784,51793,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-6,text,true,,142827,141,10,47,https://plugins.jenkins.io/performance/releases/,20620,0,8809
+1781585285468,25248,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-2,text,true,,172190,136,10,47,https://practicetestautomation.com/courses/,8647,0,0
+1781585286377,25164,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-4,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,9356,0,0
+1781585296354,16216,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-2,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,15847,0,0
+1781585293729,19007,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-3,text,true,,49730,132,10,47,https://plugins.jenkins.io/performance/,17189,0,0
+1781585287411,26477,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-3,text,true,,172192,136,10,47,https://practicetestautomation.com/courses/,9993,0,0
+1781585286098,28307,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-1,text,true,,99364,132,10,47,https://www.selenium.dev/documentation/,10313,0,0
+1781585299526,15481,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-3,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,15443,0,0
+1781585301040,14472,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-5,text,true,,20331,153,10,47,https://www.easycalculation.com/currency-converter/index.php,14452,0,0
+1781585279880,35764,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-1,text,true,,142827,141,10,47,https://plugins.jenkins.io/performance/releases/,9444,0,0
+1781585289885,26366,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-4,text,true,,172198,136,10,47,https://practicetestautomation.com/courses/,12678,0,0
+1781585281042,35526,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-2,text,true,,142827,141,10,47,https://plugins.jenkins.io/performance/releases/,9136,0,0
+1781585305640,11381,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-1,text,true,,23703,143,10,47,https://www.easycalculation.com/formulas/index.php,11375,0,0
+1781585291012,26301,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-1,text,true,,198162,133,10,47,https://practicetestautomation.com/blog/,15291,0,0
+1781585292994,25144,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-6,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,16319,0,0
+1781585293573,24631,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-7,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,16197,0,0
+1781585311541,7069,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-4,text,true,,23703,143,10,47,https://www.easycalculation.com/formulas/index.php,7042,0,0
+1781585312570,6557,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-2,text,true,,23703,143,10,47,https://www.easycalculation.com/formulas/index.php,6528,0,0
+1781585297092,22300,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-8,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,16074,0,0
+1781585309577,11398,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-6,text,true,,49730,132,10,47,https://plugins.jenkins.io/performance/,8907,0,0
+1781585320975,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-6,text,false,,875,0,10,47,null,0,0,0
+1781585309539,11520,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-4,text,true,,49730,132,10,47,https://plugins.jenkins.io/performance/,8954,0,0
+1781585315513,5849,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-5,text,true,,23026,150,10,47,https://www.easycalculation.com/unit-conversion/index.php,5770,0,0
+1781585315006,6565,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-3,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,6449,0,0
+1781585302762,19016,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-9,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,13653,0,0
+1781585314405,7711,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-1,text,true,,24201,127,10,47,https://www.selenium.dev/projects/,7281,0,0
+1781585304848,17496,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-5,text,true,,198154,133,10,47,https://practicetestautomation.com/blog/,12032,0,0
+1781585308447,14208,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-10,text,true,,47450,134,10,47,https://www.easycalculation.com/index.php,9401,0,0
+1781585318204,4979,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-7,text,true,,23703,143,10,47,https://www.easycalculation.com/formulas/index.php,4936,0,0
+1781585302101,21613,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,177405,123,10,47,https://www.selenium.dev/blog/,14193,0,0
+1781585257283,67014,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-5,text,true,,142827,141,10,47,https://plugins.jenkins.io/performance/releases/,34216,0,11285
+1781585310719,13739,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-2,text,true,,198152,133,10,47,https://practicetestautomation.com/blog/,7901,0,0
+1781585313887,11277,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-3,text,true,,198158,133,10,47,https://practicetestautomation.com/blog/,6248,0,0
+1781585289095,37086,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-4,text,true,,5635,128,7,47,https://www.demoblaze.com/cart.html,11447,0,0
+1781585275251,51226,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-5,text,true,,20674,135,7,47,https://www.demoblaze.com/prod.html?idp_=8,8627,0,0
+1781585326478,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-5,text,false,,871,0,7,47,null,0,0,0
+1781585317021,9617,Curriences HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-1,text,false,,3177,0,10,47,https://www.easycalculation.com/currency-converter/index.php,0,0,9617
+1781585318138,8839,Formulas HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-6,text,false,,3177,0,9,46,https://www.easycalculation.com/formulas/index.php,0,0,8839
+1781585318611,8606,Curriences HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-4,text,false,,3177,0,9,46,https://www.easycalculation.com/currency-converter/index.php,0,0,8606
+1781585319128,8491,Curriences HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-2,text,false,,3177,0,9,46,https://www.easycalculation.com/currency-converter/index.php,0,0,8491
+1781585319391,8462,Formulas HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-8,text,false,,3177,0,8,45,https://www.easycalculation.com/formulas/index.php,0,0,8462
+1781585258284,70216,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-7,text,true,,142827,141,10,45,https://plugins.jenkins.io/performance/releases/,49535,0,17326
+1781585259285,69685,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-9,text,true,,142827,141,10,45,https://plugins.jenkins.io/performance/releases/,52412,0,18714
+1781585312736,16401,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-3,text,true,,142828,141,10,45,https://plugins.jenkins.io/performance/releases/,7150,0,0
+1781585321364,7804,Calculators HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-5,text,false,,3177,0,8,45,https://www.easycalculation.com/index.php,0,0,7803
+1781585321573,7669,Formulas HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-3,text,false,,3177,0,8,45,https://www.easycalculation.com/formulas/index.php,0,0,7669
+1781585321780,7750,Formulas HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-9,text,false,,3177,0,8,45,https://www.easycalculation.com/formulas/index.php,0,0,7750
+1781585322118,7606,Blog HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-1,text,false,,3177,0,10,45,https://www.selenium.dev/blog/,0,0,7606
+1781585322655,7424,Formulas HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-10,text,false,,3177,0,8,45,https://www.easycalculation.com/formulas/index.php,0,0,7424
+1781585259785,70358,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-10,text,true,,142828,141,10,45,https://plugins.jenkins.io/performance/releases/,55027,0,20360
+1781585257770,72394,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-6,text,true,,145117,128,10,45,https://practicetestautomation.com/,11549,0,6884
+1781585323185,7051,Curriences HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 2 Easy Calculation Thread Group 2-7,text,false,,3177,0,8,45,https://www.easycalculation.com/currency-converter/index.php,0,0,7051
+1781585256735,73710,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,267762,252,10,45,https://www.selenium.dev/downloads/,5724,0,2428
+1781585256735,5724,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-4,text,true,,663,124,10,45,https://selenium.dev/downloads/,5724,0,2428
+1781585262460,67985,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,267099,128,10,45,https://www.selenium.dev/downloads/,48738,0,14658
+1781585316251,14405,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-4,text,true,,198156,133,10,45,https://practicetestautomation.com/blog/,5982,0,0
+1781585258270,72544,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-7,text,true,,145117,128,10,45,https://practicetestautomation.com/,12577,0,7691
+1781585258783,72031,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-8,text,true,,142827,141,10,45,https://plugins.jenkins.io/performance/releases/,49469,0,16971
+1781585258771,72369,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-8,text,true,,145115,128,10,45,https://practicetestautomation.com/,15160,0,8086
+1781585257237,74704,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,267761,252,10,45,https://www.selenium.dev/downloads/,7544,0,4455
+1781585257237,7544,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-5,text,true,,662,124,10,45,https://selenium.dev/downloads/,7544,0,4455
+1781585264782,67159,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,267099,128,10,45,https://www.selenium.dev/downloads/,52759,0,19383
+1781585256236,75971,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,267762,252,10,45,https://www.selenium.dev/downloads/,2896,0,1378
+1781585256236,2896,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-3,text,true,,663,124,10,45,https://selenium.dev/downloads/,2896,0,1378
+1781585259133,73074,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,267099,128,10,45,https://www.selenium.dev/downloads/,36263,0,11146
+1781585259272,73466,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-9,text,true,,145123,128,10,45,https://practicetestautomation.com/,16536,0,8707
+1781585259770,73476,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-10,text,true,,145123,128,10,45,https://practicetestautomation.com/,15844,0,8495
+1781585278362,56469,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-6,text,true,,99364,132,10,45,https://www.selenium.dev/documentation/,49483,0,34444
+1781585258238,76872,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-7,text,true,,267763,252,10,45,https://www.selenium.dev/downloads/,17355,0,10219
+1781585258238,17356,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-7,text,true,,663,124,10,45,https://selenium.dev/downloads/,17355,0,10219
+1781585275594,59516,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-7,text,true,,267100,128,10,45,https://www.selenium.dev/downloads/,41946,0,32375
+1781585258735,76579,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-8,text,true,,267762,252,10,45,https://www.selenium.dev/downloads/,16993,0,9927
+1781585258735,16993,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-8,text,true,,663,124,10,45,https://selenium.dev/downloads/,16993,0,9927
+1781585275729,59585,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-8,text,true,,267099,128,10,45,https://www.selenium.dev/downloads/,50826,0,32436
+1781585259236,77091,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,267763,252,10,45,https://www.selenium.dev/downloads/,18005,0,11585
+1781585259236,18005,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-9,text,true,,663,124,10,45,https://selenium.dev/downloads/,18005,0,11585
+1781585277242,59085,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,267100,128,10,45,https://www.selenium.dev/downloads/,49965,0,34406
+1781585334833,2331,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-6,text,true,,24200,127,10,45,https://www.selenium.dev/projects/,2300,0,0
+1781585335112,2969,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-7,text,true,,99365,132,10,45,https://www.selenium.dev/documentation/,2091,0,0
+1781585335316,3651,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-8,text,true,,99365,132,10,45,https://www.selenium.dev/documentation/,2722,0,0
+1781585330815,9121,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-7,text,true,,123737,137,10,45,https://practicetestautomation.com/practice/,4995,0,2718
+1781585330144,10576,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-10,text,true,,49730,132,10,45,https://plugins.jenkins.io/performance/,4080,0,2911
+1781585340722,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-10,text,false,,875,0,10,45,null,0,0,0
+1781585331141,10363,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-8,text,true,,123747,137,10,45,https://practicetestautomation.com/practice/,5505,0,2477
+1781585331942,10064,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,99365,132,10,45,https://www.selenium.dev/documentation/,4470,0,2164
+1781585336329,5811,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,99365,132,10,45,https://www.selenium.dev/documentation/,4008,0,0
+1781585259736,84124,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-10,text,true,,267761,252,10,45,https://www.selenium.dev/downloads/,20189,0,13277
+1781585259736,20189,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-10,text,true,,662,124,10,45,https://selenium.dev/downloads/,20189,0,13277
+1781585279926,63934,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-10,text,true,,267099,128,10,45,https://www.selenium.dev/downloads/,40005,0,34721
+1781585326979,17535,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-6,text,true,,20331,153,8,45,https://www.easycalculation.com/currency-converter/index.php,17518,0,9546
+1781585327219,17392,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-4,text,true,,23026,150,8,45,https://www.easycalculation.com/unit-conversion/index.php,17357,0,9306
+1781585332208,12434,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,99365,132,10,45,https://www.selenium.dev/documentation/,4725,0,2389
+1781585327855,16830,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-8,text,true,,20331,153,8,45,https://www.easycalculation.com/currency-converter/index.php,16828,0,8684
+1781585320976,24326,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-6,text,true,,49730,132,10,45,https://plugins.jenkins.io/performance/,14187,0,11419
+1781585324298,21280,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-5,text,true,,49730,132,10,45,https://plugins.jenkins.io/performance/,10914,0,8112
+1781585345577,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-5,text,false,,875,0,10,45,null,0,0,0
+1781585315645,30010,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-1,text,true,,49730,132,10,45,https://plugins.jenkins.io/performance/,19587,0,16764
+1781585345656,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-1,text,false,,875,0,10,45,null,0,0,0
+1781585316568,29186,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-2,text,true,,49730,132,10,45,https://plugins.jenkins.io/performance/,18679,0,15845
+1781585345755,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-2,text,false,,875,0,10,45,null,0,0,0
+1781585326182,19627,Product HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 5 Blaze DemoThread Group 5-4,text,false,,3177,0,7,45,https://www.demoblaze.com/prod.html?idp_=8,0,0,19627
+1781585326478,19357,Cart HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 5 Blaze DemoThread Group 5-5,text,false,,3177,0,6,44,https://www.demoblaze.com/cart.html,0,0,19357
+1781585338082,8085,Projects HTTP  Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-7,text,false,,3177,0,10,44,https://www.selenium.dev/projects/,0,0,8085
+1781585342006,4606,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,24201,127,10,44,https://www.selenium.dev/projects/,4126,0,0
+1781585328501,18143,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-7,text,true,,49730,132,10,44,https://plugins.jenkins.io/performance/,7011,0,4104
+1781585346643,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-7,text,false,,875,0,10,44,null,0,0,0
+1781585340722,5923,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-10,text,true,,49730,132,10,44,https://plugins.jenkins.io/performance/,3992,0,0
+1781585338967,7964,Projects HTTP  Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-8,text,false,,3177,0,10,44,https://www.selenium.dev/projects/,0,0,7964
+1781585329244,17714,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-3,text,true,,20331,153,8,44,https://www.easycalculation.com/currency-converter/index.php,17687,0,9053
+1781585329169,17884,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-5,text,true,,23703,143,7,43,https://www.easycalculation.com/formulas/index.php,17674,0,9148
+1781585329531,18210,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-9,text,true,,20331,153,7,43,https://www.easycalculation.com/currency-converter/index.php,18189,0,9353
+1781585330080,17727,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-10,text,true,,20331,153,7,43,https://www.easycalculation.com/currency-converter/index.php,17727,0,9156
+1781585328971,18877,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-9,text,true,,49730,132,10,43,https://plugins.jenkins.io/performance/,6743,0,3794
+1781585347848,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-9,text,false,,875,0,10,43,null,0,0,0
+1781585329139,18788,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-3,text,true,,49730,132,10,43,https://plugins.jenkins.io/performance/,6792,0,3667
+1781585347926,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-3,text,false,,875,0,10,43,null,0,0,0
+1781585330238,18123,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-7,text,true,,23026,150,7,43,https://www.easycalculation.com/unit-conversion/index.php,18050,0,10140
+1781585332739,15942,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-9,text,true,,123736,137,10,43,https://practicetestautomation.com/practice/,8243,0,3226
+1781585344515,4778,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-6,text,true,,23026,150,7,43,https://www.easycalculation.com/unit-conversion/index.php,4747,0,0
+1781585339937,9475,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-7,text,true,,172188,136,10,43,https://practicetestautomation.com/courses/,4157,0,0
+1781585344686,5567,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-8,text,true,,23026,150,7,43,https://www.easycalculation.com/unit-conversion/index.php,5530,0,0
+1781585344643,6572,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,24201,127,10,43,https://www.selenium.dev/projects/,6211,0,0
+1781585330815,20762,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-8,text,true,,49730,132,10,43,https://plugins.jenkins.io/performance/,6352,0,2599
+1781585351577,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-8,text,false,,875,0,10,43,null,0,0,0
+1781585337165,14637,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-6,text,true,,177405,123,10,43,https://www.selenium.dev/blog/,5002,0,0
+1781585341505,10790,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-8,text,true,,172192,136,10,43,https://practicetestautomation.com/courses/,4330,0,0
+1781585347052,5754,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-5,text,true,,20331,153,7,43,https://www.easycalculation.com/currency-converter/index.php,5751,0,0
+1781585323716,29225,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,267763,252,10,42,https://www.selenium.dev/downloads/,8697,0,6665
+1781585323716,8697,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-2,text,true,,663,124,10,42,https://selenium.dev/downloads/,8697,0,6665
+1781585332414,20527,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,267100,128,10,42,https://www.selenium.dev/downloads/,5224,0,2924
+1781585343862,9378,Selenium Documentation HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-10,text,false,,3177,0,10,42,https://www.selenium.dev/documentation/,0,0,9378
+1781585347741,5799,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-9,text,true,,23026,150,6,42,https://www.easycalculation.com/unit-conversion/index.php,5717,0,0
+1781585347807,6004,Convertors  - HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-10,text,true,,23026,150,6,42,https://www.easycalculation.com/unit-conversion/index.php,5965,0,0
+1781585309446,44928,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-10,text,true,,5352,135,6,42,https://www.demoblaze.com/prod.html?idp_=8,8697,0,0
+1781585354374,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-10,text,false,,871,0,6,42,null,0,0,0
+1781585344612,10924,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-4,text,true,,47450,134,6,42,https://www.easycalculation.com/index.php,5125,0,0
+1781585321059,37698,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-4,text,true,,142827,141,10,42,https://plugins.jenkins.io/performance/releases/,17841,0,11355
+1781585345835,13570,Product HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 5 Blaze DemoThread Group 5-5,text,false,,3177,0,6,42,https://www.demoblaze.com/prod.html?idp_=8,0,0,13570
+1781585345578,13979,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-5,text,true,,49730,132,10,41,https://plugins.jenkins.io/performance/,6741,0,0
+1781585345657,14002,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-1,text,true,,49731,132,10,41,https://plugins.jenkins.io/performance/,6697,0,0
+1781585345755,14009,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-2,text,true,,49731,132,9,40,https://plugins.jenkins.io/performance/,6702,0,0
+1781585346166,13870,Blog HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-7,text,false,,3177,0,10,39,https://www.selenium.dev/blog/,0,0,13870
+1781585330446,29685,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,99365,132,10,39,https://www.selenium.dev/documentation/,12088,0,2956
+1781585346932,13427,Blog HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-8,text,false,,3177,0,10,39,https://www.selenium.dev/blog/,0,0,13427
+1781585346644,13761,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-7,text,true,,49731,132,8,39,https://plugins.jenkins.io/performance/,6457,0,0
+1781585349293,11285,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-6,text,true,,47450,134,6,39,https://www.easycalculation.com/index.php,5699,0,0
+1781585347927,13132,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-3,text,true,,49731,132,8,39,https://plugins.jenkins.io/performance/,6480,0,0
+1781585307676,53740,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-9,text,true,,20674,135,5,38,https://www.demoblaze.com/prod.html?idp_=8,9865,0,0
+1781585361416,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-9,text,false,,871,0,5,38,null,0,0,0
+1781585347849,14266,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-9,text,true,,49730,132,7,38,https://plugins.jenkins.io/performance/,6596,0,0
+1781585348361,14283,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-7,text,true,,47450,134,6,38,https://www.easycalculation.com/index.php,5874,0,0
+1781585346611,16288,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,177406,123,10,38,https://www.selenium.dev/blog/,6024,0,0
+1781585352941,10145,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,99365,132,10,38,https://www.selenium.dev/documentation/,8038,0,0
+1781585353541,9629,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-9,text,true,,47450,134,6,38,https://www.easycalculation.com/index.php,8230,0,0
+1781585355536,7676,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-4,text,true,,23703,143,6,38,https://www.easycalculation.com/formulas/index.php,7670,0,0
+1781585353812,9447,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-10,text,true,,47450,134,6,38,https://www.easycalculation.com/index.php,8513,0,0
+1781585350252,13524,Calculators HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-8,text,true,,47450,134,6,38,https://www.easycalculation.com/index.php,6598,0,0
+1781585349412,14689,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-7,text,true,,198156,133,10,38,https://practicetestautomation.com/blog/,6913,0,0
+1781585292275,72371,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-7,text,true,,20674,135,5,38,https://www.demoblaze.com/prod.html?idp_=8,16494,0,0
+1781585364645,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-7,text,false,,871,0,5,38,null,0,0,0
+1781585297056,68378,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-8,text,true,,20674,135,5,38,https://www.demoblaze.com/prod.html?idp_=8,16246,0,0
+1781585365434,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-8,text,false,,871,0,5,38,null,0,0,0
+1781585351577,13912,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-8,text,true,,49730,132,7,38,https://plugins.jenkins.io/performance/,8945,0,0
+1781585345303,20213,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-6,text,true,,142827,141,7,38,https://plugins.jenkins.io/performance/releases/,6091,0,0
+1781585360579,5294,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-6,text,true,,23703,143,6,38,https://www.easycalculation.com/formulas/index.php,5229,0,0
+1781585358756,7528,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-4,text,true,,49730,132,7,38,https://plugins.jenkins.io/performance/,6524,0,0
+1781585366286,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-4,text,false,,875,0,7,38,null,0,0,0
+1781585346644,19651,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-10,text,true,,142827,141,7,38,https://plugins.jenkins.io/performance/releases/,6332,0,0
+1781585352296,14021,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-8,text,true,,198156,133,10,38,https://practicetestautomation.com/blog/,8476,0,0
+1781585360131,6301,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,24201,127,10,38,https://www.selenium.dev/projects/,6119,0,0
+1781585362644,3893,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-7,text,true,,23703,143,6,38,https://www.easycalculation.com/formulas/index.php,3883,0,0
+1781585363170,3542,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-9,text,true,,23703,143,6,38,https://www.easycalculation.com/formulas/index.php,3520,0,0
+1781585363213,3545,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-4,text,true,,20331,153,6,38,https://www.easycalculation.com/currency-converter/index.php,3543,0,0
+1781585363259,3560,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-10,text,true,,23703,143,5,37,https://www.easycalculation.com/formulas/index.php,3540,0,0
+1781585363776,3144,Formulas HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-8,text,true,,23703,143,5,37,https://www.easycalculation.com/formulas/index.php,3144,0,0
+1781585363086,3835,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,24202,127,10,37,https://www.selenium.dev/projects/,3787,0,0
+1781585317313,49683,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-1,text,true,,145117,128,10,37,https://practicetestautomation.com/,18283,0,15467
+1781585325166,41837,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-3,text,true,,145119,128,10,37,https://practicetestautomation.com/,10484,0,7636
+1781585322346,44711,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-5,text,true,,145119,128,10,37,https://practicetestautomation.com/,13255,0,10456
+1781585324460,42625,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-2,text,true,,145123,128,10,37,https://practicetestautomation.com/,11200,0,8347
+1781585360037,7202,Downlaods  - HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-7,text,false,,3177,0,10,37,https://selenium.dev/downloads/,0,0,7202
+1781585360360,6912,Downlaods  - HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 1 Selenium Thread Group 1-8,text,false,,3177,0,10,37,https://selenium.dev/downloads/,0,0,6911
+1781585361416,6106,Cart HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,CI/CD 5 Blaze DemoThread Group 5-9,text,false,,3177,0,5,37,https://www.demoblaze.com/cart.html,0,0,6106
+1781585348682,18922,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-9,text,true,,172194,136,10,37,https://practicetestautomation.com/courses/,6476,0,0
+1781585365875,1879,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-6,text,true,,20331,153,5,37,https://www.easycalculation.com/currency-converter/index.php,1862,0,0
+1781585366538,1704,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-7,text,true,,20331,153,4,36,https://www.easycalculation.com/currency-converter/index.php,1682,0,0
+1781585364102,4259,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-7,text,true,,145123,128,10,35,https://practicetestautomation.com/,2954,0,0
+1781585351215,17148,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,177406,123,10,35,https://www.selenium.dev/blog/,8793,0,0
+1781585366713,1732,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-9,text,true,,20331,153,3,35,https://www.easycalculation.com/currency-converter/index.php,1720,0,0
+1781585366820,1652,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-10,text,true,,20331,153,2,34,https://www.easycalculation.com/currency-converter/index.php,1640,0,0
+1781585366921,1713,Curriences HTTP Request,200,OK,CI/CD 2 Easy Calculation Thread Group 2-8,text,true,,20331,153,1,33,https://www.easycalculation.com/currency-converter/index.php,1711,0,0
+1781585330165,38599,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-6,text,true,,123749,137,10,32,https://practicetestautomation.com/practice/,6334,0,3162
+1781585365517,3892,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-6,text,true,,49730,132,7,32,https://plugins.jenkins.io/performance/,2290,0,0
+1781585369409,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-6,text,false,,875,0,7,32,null,0,0,0
+1781585342141,27338,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,24201,127,10,32,https://www.selenium.dev/projects/,18015,0,8952
+1781585359559,9966,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-5,text,true,,142827,141,7,32,https://plugins.jenkins.io/performance/releases/,6206,0,0
+1781585360406,9190,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-7,text,true,,142828,141,7,32,https://plugins.jenkins.io/performance/releases/,5849,0,0
+1781585366287,3317,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-4,text,true,,49731,132,7,32,https://plugins.jenkins.io/performance/,2201,0,0
+1781585330657,39027,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-4,text,true,,145121,128,10,31,https://practicetestautomation.com/,5069,0,2804
+1781585366296,3396,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-10,text,true,,49731,132,6,31,https://plugins.jenkins.io/performance/,2232,0,0
+1781585369692,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-10,text,false,,875,0,6,31,null,0,0,0
+1781585333247,36475,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-10,text,true,,123733,137,10,31,https://practicetestautomation.com/practice/,9594,0,4641
+1781585362116,8176,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-9,text,true,,142827,141,6,31,https://plugins.jenkins.io/performance/releases/,4524,0,0
+1781585368363,2311,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-7,text,true,,123745,137,10,31,https://practicetestautomation.com/practice/,1477,0,0
+1781585329725,40988,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-1,text,true,,267762,252,10,31,https://www.selenium.dev/downloads/,4312,0,3176
+1781585329725,4312,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-1,text,true,,662,124,10,31,https://selenium.dev/downloads/,4312,0,3176
+1781585334037,36676,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-1,text,true,,267100,128,10,31,https://www.selenium.dev/downloads/,13729,0,9735
+1781585366923,3839,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-2,text,true,,177406,123,10,31,https://www.selenium.dev/blog/,1776,0,0
+1781585366319,4503,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-8,text,true,,145125,128,10,30,https://practicetestautomation.com/,2275,0,0
+1781585364646,6838,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-7,text,true,,5672,128,5,30,https://www.demoblaze.com/cart.html,5529,0,4075
+1781585369410,2443,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-6,text,true,,49730,132,6,30,https://plugins.jenkins.io/performance/,1794,0,0
+1781585369527,2367,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-5,text,true,,49731,132,5,29,https://plugins.jenkins.io/performance/,1771,0,0
+1781585371895,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-5,text,false,,875,0,5,29,null,0,0,0
+1781585353241,18711,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-10,text,true,,24202,127,9,29,https://www.selenium.dev/projects/,15605,0,14354
+1781585365434,6659,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-8,text,true,,5824,128,5,29,https://www.demoblaze.com/cart.html,5361,0,3693
+1781585369597,2527,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-7,text,true,,49731,132,5,29,https://plugins.jenkins.io/performance/,2064,0,0
+1781585372125,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-7,text,false,,875,0,5,29,null,0,0,0
+1781585365490,6680,Release  - HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-8,text,true,,142827,141,5,29,https://plugins.jenkins.io/performance/releases/,2483,0,0
+1781585367004,5285,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-3,text,true,,123739,137,10,29,https://practicetestautomation.com/practice/,1818,0,0
+1781585367086,5203,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-2,text,true,,123737,137,10,29,https://practicetestautomation.com/practice/,1761,0,0
+1781585369692,3149,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-10,text,true,,49731,132,5,29,https://plugins.jenkins.io/performance/,2596,0,0
+1781585367057,5863,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-5,text,true,,123743,137,10,28,https://practicetestautomation.com/practice/,2231,0,0
+1781585366998,6077,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-1,text,true,,123739,137,10,28,https://practicetestautomation.com/practice/,2288,0,0
+1781585367606,5484,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-9,text,true,,198162,133,10,28,https://practicetestautomation.com/blog/,2334,0,0
+1781585366434,6760,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,177406,123,9,28,https://www.selenium.dev/blog/,2559,0,0
+1781585370295,2922,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-9,text,true,,49730,132,4,28,https://plugins.jenkins.io/performance/,2347,0,0
+1781585373217,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-9,text,false,,875,0,4,28,null,0,0,0
+1781585370713,3107,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-1,text,true,,99365,132,9,28,https://www.selenium.dev/documentation/,2248,0,0
+1781585370822,3257,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-8,text,true,,123739,137,10,28,https://practicetestautomation.com/practice/,2433,0,0
+1781585370675,3615,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-7,text,true,,172194,136,10,28,https://practicetestautomation.com/courses/,2450,0,0
+1781585371895,2976,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-5,text,true,,49731,132,4,28,https://plugins.jenkins.io/performance/,1913,0,0
+1781585372126,3001,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-7,text,true,,49731,132,3,27,https://plugins.jenkins.io/performance/,2026,0,0
+1781585372171,2982,Documentation HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-8,text,true,,49731,132,2,26,https://plugins.jenkins.io/performance/,2036,0,0
+1781585375153,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',CI/CD 4 Perofrmace Plgin Thread Group 4-8,text,false,,875,0,2,26,null,0,0,0
+1781585362899,13118,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,267763,252,9,26,https://www.selenium.dev/downloads/,6357,0,5069
+1781585362899,6357,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-5,text,true,,663,124,9,26,https://selenium.dev/downloads/,6357,0,5069
+1781585369257,6760,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,267100,128,9,26,https://www.selenium.dev/downloads/,1841,0,0
+1781585371485,4630,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-7,text,true,,20674,135,5,26,https://www.demoblaze.com/prod.html?idp_=8,2169,0,0
+1781585373218,3108,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-9,text,true,,49730,132,2,25,https://plugins.jenkins.io/performance/,2484,0,0
+1781585373820,2533,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-1,text,true,,24202,127,9,24,https://www.selenium.dev/projects/,2451,0,0
+1781585369684,6691,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-4,text,true,,123735,137,10,24,https://practicetestautomation.com/practice/,2672,0,0
+1781585374291,3022,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-7,text,true,,198150,133,10,24,https://practicetestautomation.com/blog/,2422,0,0
+1781585373091,4386,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-9,text,true,,145117,128,9,23,https://practicetestautomation.com/,2637,0,0
+1781585368764,8736,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-6,text,true,,172196,136,9,23,https://practicetestautomation.com/courses/,2163,0,0
+1781585372289,5211,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-2,text,true,,172196,136,9,23,https://practicetestautomation.com/courses/,2582,0,0
+1781585372921,5037,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-5,text,true,,172192,136,9,23,https://practicetestautomation.com/courses/,2781,0,0
+1781585375154,2908,Dependencies HTTP Request,200,OK,CI/CD 4 Perofrmace Plgin Thread Group 4-8,text,true,,49731,132,1,23,https://plugins.jenkins.io/performance/,2329,0,0
+1781585354375,23877,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-10,text,true,,5890,128,4,22,https://www.demoblaze.com/cart.html,13887,0,12128
+1781585374079,4292,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-8,text,true,,172194,136,9,22,https://practicetestautomation.com/courses/,2520,0,0
+1781585376017,2357,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,99365,132,9,22,https://www.selenium.dev/documentation/,1664,0,0
+1781585369479,8930,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,177406,123,9,22,https://www.selenium.dev/blog/,2874,0,0
+1781585373075,5334,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-1,text,true,,172188,136,9,22,https://practicetestautomation.com/courses/,3254,0,0
+1781585369723,8712,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-10,text,true,,172196,136,9,22,https://practicetestautomation.com/courses/,3299,0,0
+1781585372289,6203,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-3,text,true,,172194,136,9,22,https://practicetestautomation.com/courses/,2585,0,0
+1781585368364,10445,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,267764,252,9,22,https://www.selenium.dev/downloads/,4761,0,2755
+1781585368364,4761,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-3,text,true,,664,124,9,22,https://selenium.dev/downloads/,4761,0,2755
+1781585373126,5683,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,267100,128,9,22,https://www.selenium.dev/downloads/,2517,0,0
+1781585275610,103268,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-6,text,true,,20678,135,4,22,https://www.demoblaze.com/prod.html?idp_=8,8602,0,0
+1781585378879,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,CI/CD 5 Blaze DemoThread Group 5-6,text,false,,871,0,4,22,null,0,0,0
+1781585372095,6796,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-8,text,true,,20719,135,4,22,https://www.demoblaze.com/prod.html?idp_=8,2127,0,0
+1781585371954,7206,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-10,text,true,,177406,123,9,21,https://www.selenium.dev/blog/,2102,0,0
+1781585377476,1684,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-9,text,true,,123743,137,9,21,https://practicetestautomation.com/practice/,1284,0,0
+1781585376353,2907,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-1,text,true,,177406,123,9,21,https://www.selenium.dev/blog/,1651,0,0
+1781585378375,949,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,24202,127,8,20,https://www.selenium.dev/projects/,905,0,0
+1781585367242,12482,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-7,text,true,,99365,132,8,20,https://www.selenium.dev/documentation/,10123,0,4274
+1781585367274,12450,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-8,text,true,,99365,132,8,20,https://www.selenium.dev/documentation/,10101,0,4247
+1781585377500,2935,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-2,text,true,,198150,133,9,20,https://practicetestautomation.com/blog/,1252,0,0
+1781585376374,4099,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-4,text,true,,172198,136,8,19,https://practicetestautomation.com/courses/,1803,0,0
+1781585378809,1874,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,99365,132,8,19,https://www.selenium.dev/documentation/,997,0,0
+1781585378371,2699,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-8,text,true,,198158,133,8,19,https://practicetestautomation.com/blog/,1127,0,0
+1781585379325,2319,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-5,text,true,,177406,123,8,18,https://www.selenium.dev/blog/,1374,0,0
+1781585379160,2523,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-9,text,true,,172192,136,7,17,https://practicetestautomation.com/courses/,1790,0,0
+1781585377958,3971,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-5,text,true,,198152,133,7,17,https://practicetestautomation.com/blog/,1414,0,0
+1781585378253,3824,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-10,text,true,,20674,135,3,16,https://www.demoblaze.com/prod.html?idp_=8,946,0,0
+1781585378492,3661,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-3,text,true,,198164,133,6,15,https://practicetestautomation.com/blog/,1358,0,0
+1781585351802,30356,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-6,text,true,,267762,252,7,14,https://www.selenium.dev/downloads/,15496,0,13712
+1781585351802,15496,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-6,text,true,,663,124,7,14,https://selenium.dev/downloads/,15496,0,13712
+1781585367299,14859,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-6,text,true,,267099,128,7,14,https://www.selenium.dev/downloads/,4713,0,2377
+1781585377500,4721,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-6,text,true,,198152,133,5,14,https://practicetestautomation.com/blog/,1780,0,0
+1781585373194,9159,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,267763,252,7,14,https://www.selenium.dev/downloads/,5442,0,4310
+1781585373194,5442,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-4,text,true,,663,124,7,14,https://selenium.dev/downloads/,5442,0,4310
+1781585378636,3717,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,267100,128,7,14,https://www.selenium.dev/downloads/,1126,0,0
+1781585380684,1721,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,24202,127,7,14,https://www.selenium.dev/projects/,1697,0,0
+1781585378434,4047,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-10,text,true,,198146,133,5,14,https://practicetestautomation.com/blog/,2487,0,0
+1781585379723,3053,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-7,text,true,,24202,127,7,14,https://www.selenium.dev/projects/,3027,0,0
+1781585379723,3070,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-8,text,true,,24202,127,7,14,https://www.selenium.dev/projects/,3047,0,0
+1781585380474,2416,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-4,text,true,,198158,133,5,14,https://practicetestautomation.com/blog/,1961,0,0
+1781585378408,4864,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-1,text,true,,198154,133,4,13,https://practicetestautomation.com/blog/,4183,0,2385
+1781585381685,1801,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-9,text,true,,198148,133,3,12,https://practicetestautomation.com/blog/,1441,0,0
+1781585367525,16162,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-9,text,true,,20674,135,2,11,https://www.demoblaze.com/prod.html?idp_=8,5228,0,2758
+1781585382159,1536,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-6,text,true,,99364,132,7,10,https://www.selenium.dev/documentation/,1245,0,0
+1781585382355,1869,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,99365,132,7,10,https://www.selenium.dev/documentation/,1584,0,0
+1781585378879,5395,Cart HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-6,text,true,,5961,128,1,10,https://www.demoblaze.com/cart.html,5373,0,3457
+1781585378408,6225,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,267763,252,7,10,https://www.selenium.dev/downloads/,3923,0,2202
+1781585378408,3923,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-9,text,true,,663,124,7,10,https://selenium.dev/downloads/,3923,0,2202
+1781585382332,2301,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,267100,128,7,10,https://www.selenium.dev/downloads/,1402,0,0
+1781585383696,1114,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-6,text,true,,24201,127,7,10,https://www.selenium.dev/projects/,1081,0,0
+1781585382223,2674,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-6,text,true,,145123,128,2,10,https://practicetestautomation.com/,2299,0,0
+1781585379160,6725,Downlaods  - HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-10,text,true,,267763,252,7,10,https://www.selenium.dev/downloads/,4402,0,3171
+1781585379160,4402,Downlaods  - HTTP Request-0,301,Moved Permanently,CI/CD 1 Selenium Thread Group 1-10,text,true,,663,124,7,10,https://selenium.dev/downloads/,4402,0,3171
+1781585383564,2321,Downlaods  - HTTP Request-1,200,OK,CI/CD 1 Selenium Thread Group 1-10,text,true,,267100,128,7,10,https://www.selenium.dev/downloads/,1277,0,0
+1781585384634,1689,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,99365,132,7,10,https://www.selenium.dev/documentation/,1385,0,0
+1781585384897,2818,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-6,text,true,,123739,137,2,10,https://practicetestautomation.com/practice/,2718,0,0
+1781585384810,3107,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-6,text,true,,177406,123,7,10,https://www.selenium.dev/blog/,1292,0,0
+1781585382777,5260,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-7,text,true,,177406,123,6,9,https://www.selenium.dev/blog/,3896,0,0
+1781585382794,5246,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-8,text,true,,177406,123,5,8,https://www.selenium.dev/blog/,4148,0,0
+1781585386323,1749,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,24202,127,4,7,https://www.selenium.dev/projects/,1740,0,0
+1781585382406,6285,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-3,text,true,,177406,123,4,7,https://www.selenium.dev/blog/,5967,0,0
+1781585384275,4720,Product HTTP Request,200,OK,CI/CD 5 Blaze DemoThread Group 5-6,text,true,,20674,135,1,6,https://www.demoblaze.com/prod.html?idp_=8,4329,0,0
+1781585387715,1280,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-6,text,true,,172194,136,2,6,https://practicetestautomation.com/courses/,958,0,0
+1781585388073,1100,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-9,text,true,,177406,123,3,5,https://www.selenium.dev/blog/,462,0,0
+1781585385886,3427,Selenium Documentation HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-10,text,true,,99365,132,2,4,https://www.selenium.dev/documentation/,3306,0,0
+1781585384225,5262,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,24202,127,2,4,https://www.selenium.dev/projects/,5252,0,0
+1781585382483,7081,Home  - HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-10,text,true,,145121,128,2,4,https://practicetestautomation.com/,6768,0,0
+1781585389313,895,Projects HTTP  Request,200,OK,CI/CD 1 Selenium Thread Group 1-10,text,true,,24202,127,2,4,https://www.selenium.dev/projects/,704,0,0
+1781585389487,999,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-4,text,true,,177406,123,2,4,https://www.selenium.dev/blog/,722,0,0
+1781585388996,1599,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-6,text,true,,198150,133,2,3,https://practicetestautomation.com/blog/,1259,0,0
+1781585389565,1229,Practice HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-10,text,true,,123739,137,1,2,https://practicetestautomation.com/practice/,1039,0,0
+1781585390209,754,Blog HTTP Request,200,OK,CI/CD 1 Selenium Thread Group 1-10,text,true,,177406,123,1,2,https://www.selenium.dev/blog/,476,0,0
+1781585390795,2043,Cource HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-10,text,true,,172188,136,1,1,https://practicetestautomation.com/courses/,1000,0,0
+1781585392838,903,Blog HTTP Request,200,OK,CI/CD 3 Pratcie AutomationThread Group 3-10,text,true,,198160,133,1,1,https://practicetestautomation.com/blog/,422,0,0
